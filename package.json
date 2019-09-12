@@ -1,10 +1,10 @@
 {
 	"name": "aaron-kt-berry-pack",
-	"icon": "icon.png",
+	"icon": "icon.jpg",
 	"displayName": "Berry pack",
 	"description": "perosnal extension pack",
 	"publisher": "AaronBerry",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"engines": {
 		"vscode": "^1.38.0"
 	},
