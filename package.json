@@ -1,35 +1,34 @@
 {
-    "name": "aaron-kt-berry-pack",
-    "displayName": "aaron-kt-berry-pack",
-    "description": "perosnal extension pack",
-    "publisher": "AaronBerry",
-    "version": "1.0.0",
-    "engines": {
-        "vscode": "^1.38.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Aaron-K-T-Berry/aaron-kt-berry-vscode-pack"
-    },
-    "extensionPack": [
-        "christian-kohler.path-intellisense",
-        "eamodio.gitlens",
-        "esbenp.prettier-vscode",
-        "felipecaputo.git-project-manager",
-        "formulahendry.docker-explorer",
-        "mikestead.dotenv",
-        "ms-azuretools.vscode-docker",
-        "ms-vscode.vscode-typescript-tslint-plugin",
-        "PKief.material-icon-theme",
-        "rbbit.typescript-hero",
-        "redhat.vscode-yaml",
-        "shanoor.vscode-nginx",
-        "streetsidesoftware.code-spell-checker",
-        "vscoss.vscode-ansible",
-        "wesbos.theme-cobalt2",
-        "eg2.vscode-npm-script"
-    ]
+	"name": "aaron-kt-berry-pack",
+	"icon": "icon.png",
+	"displayName": "Berry pack",
+	"description": "perosnal extension pack",
+	"publisher": "AaronBerry",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.38.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Aaron-K-T-Berry/aaron-kt-berry-vscode-pack"
+	},
+	"extensionPack": [
+		"christian-kohler.path-intellisense",
+		"eamodio.gitlens",
+		"esbenp.prettier-vscode",
+		"felipecaputo.git-project-manager",
+		"mikestead.dotenv",
+		"ms-vscode.vscode-typescript-tslint-plugin",
+		"PKief.material-icon-theme",
+		"rbbit.typescript-hero",
+		"redhat.vscode-yaml",
+		"shanoor.vscode-nginx",
+		"streetsidesoftware.code-spell-checker",
+		"vscoss.vscode-ansible",
+		"wesbos.theme-cobalt2",
+		"eg2.vscode-npm-script"
+	]
 }
