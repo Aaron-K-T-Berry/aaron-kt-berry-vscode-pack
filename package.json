@@ -1,8 +1,8 @@
 {
-	"name": "aaron-kt-berry-pack",
+	"name": "vs-code-berry-pack",
 	"icon": "icon.jpg",
 	"displayName": "Berry pack",
-	"description": "perosnal extension pack",
+	"description": "Personal vs code extension pack",
 	"publisher": "AaronBerry",
 	"version": "2.0.0",
 	"engines": {
@@ -13,7 +13,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Aaron-K-T-Berry/aaron-kt-berry-vscode-pack"
+		"url": "https://github.com/Aaron-K-T-Berry/vs-code-berry-pack"
 	},
 	"extensionPack": [
 		"christian-kohler.path-intellisense",
