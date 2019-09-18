@@ -32,6 +32,7 @@
 		"eg2.vscode-npm-script"
 	],
 	"scripts": {
-		"build": "vsce package && mv vs-code-berry-pack-* ./dist"
+		"build": "vsce package && mv vs-code-berry-pack-* ./dist",
+		"update-readme": "node ./scripts/update-readme.js"
 	}
 }
